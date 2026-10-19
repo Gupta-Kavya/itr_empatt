@@ -327,7 +327,7 @@ Contributions and suggestions are welcome.
 4. Commit your work: `git commit -m "Add your feature"`.
 5. Push the branch and open a pull request.
 
-For bugs or feature requests, open an issue in the [GitHub repository](https://github.com/Justakap/empAttFront).
+For bugs or feature requests, open an issue in the [GitHub repository](https://github.com/Gupta-Kavya/itr_empatt).
 
 ## License
 
@@ -335,5 +335,5 @@ No license information was confirmed while preparing this README. Add a `LICENSE
 
 ---
 
-**Repository:** [Justakap/empAttFront](https://github.com/Justakap/empAttFront)  
+**Repository:** [Gupta-Kavya/itr_empatt](https://github.com/Gupta-Kavya/itr_empatt)  
 **Project:** Presence Pulse — Employee Attendance Management System
